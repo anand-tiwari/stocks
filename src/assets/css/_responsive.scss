@@ -1,0 +1,19 @@
+/*
+* Any styling that should be applied to screen widths larger
+* than a mobile device: tablet, laptop, desktop, etc.
+*/
+@mixin small() {
+  @media only screen and (max-width: 43em) {
+    @content;
+  }
+}
+@mixin medium() {
+  @media only screen and (min-width: 63em) {
+    @content;
+  }
+}
+@mixin large() {
+  @media only screen and (min-width: 80em) {
+    @content;
+  }
+}

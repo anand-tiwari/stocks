@@ -1,0 +1,4 @@
+service-name=stock-ui
+service-type=ui
+service-version={{APP_VERSION}}
+target-folder-name=stock-ui-resources

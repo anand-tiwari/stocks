@@ -1,0 +1,51 @@
+// new color schemes
+$black: #000000;
+$black-high: rgba(0, 0, 0, 0.87);
+$black-low: rgba(0, 0, 0, 0.38);
+$black-medium: rgba(0, 0, 0, 0.60);
+$black-shadow: rgba(0, 0, 0, 0.12);
+$font-black: #333333;
+
+$blue: #0095DA;
+$blue-dark: #0072A7;
+$blue-light: #0EB3FF;
+$blue-lighter: #41C3FF;
+
+$gray: #BDBDBD;
+$gray-dark: #858585;
+$gray-light: #E0E0E0;
+$gray-lighter: #F1F1F1;
+$gray-lightest: #EEEEEE;
+
+$lime: #8BC63F;
+$lime-light: #9BCE59;
+
+$islamic-green: #0FAF03;
+$green: #00B25A;
+$green-light: #DAEDC2;
+
+$magenta: #FF53B9;
+
+$orange: #F37021;
+$orange-light: #FEEDC4;
+$orange-lighter: #FDE2C2;
+
+$red: #EF3B42;
+$red-light: #F25B61;
+$red-lighter: #FFDEE0;
+
+$skyblue: #74D3FF;
+$skyblue-light: #A7E3FF;
+$skyblue-lighter: #DAF3FF;
+
+$brown: #975d3a;
+$brown-lighter: #EDD9C6;
+
+$white: #FFFFFF;
+$white-high: rgba(255, 255, 255, 0.87);
+$white-low: rgba(255, 255, 255, 0.38);
+
+$yellow: #FDB813;
+
+//Box Shadow
+$box-shadow: 0 0 16px -4px $black-shadow;
